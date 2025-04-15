@@ -1,5 +1,1 @@
-opencv-python
-mediapipe
-numpy
-scikit-learn
-flask
+deepface opencv-python flask tf-keras
